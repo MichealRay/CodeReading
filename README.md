@@ -6,6 +6,8 @@
 
 **若有任何疑问请联系客服微信：gaa353**
 
+another github
+https://ymgd.github.io/codereader/
 
 语言 | 源码仓库
 ------- | -------
